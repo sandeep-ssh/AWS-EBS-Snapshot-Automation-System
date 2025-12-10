@@ -38,4 +38,4 @@ def lambda_handler(event, context):
                     }
 
 
-Runtime : Python 3.9
+Runtime : Python 3.11
