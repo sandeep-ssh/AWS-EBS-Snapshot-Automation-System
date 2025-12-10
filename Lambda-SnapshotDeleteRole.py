@@ -49,4 +49,4 @@ def lambda_handler(event, context):
                     print(f'Deleted EBS Snapshot {snapshot_id} as its associated volume did not found')
 
 
-Runtime : Python 3.10
+Runtime : Python 3.11
